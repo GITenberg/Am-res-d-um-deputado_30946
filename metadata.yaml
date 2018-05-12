@@ -1,0 +1,31 @@
+_repo: Am-res-d-um-deputado_30946
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ferreira, A.
+    gutenberg_agent_id: '34911'
+    url: http://www.gutenberg.org/2009/agents/34911
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buffenoir, Hippolyte
+    birthdate: 1847
+    deathdate: 1928
+    gutenberg_agent_id: '34910'
+    url: http://www.gutenberg.org/2009/agents/34910
+description: ''
+gutenberg_issued: '2010-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30946'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Amôres d'um deputado
+url: http://www.gutenberg.org/ebooks/30946
