@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34910'
     url: http://www.gutenberg.org/2009/agents/34910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30946#Am-res-d-um-deputado
 gutenberg_issued: '2010-01-12'
 gutenberg_type: Text
 identifiers:
